@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/537553a8-c4c0-4456-8677-25fde83baa0e/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/brturner-canary-as",
+    "appService.deploySubpath": "."
+}
